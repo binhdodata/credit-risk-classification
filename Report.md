@@ -21,7 +21,7 @@
 * Precision: The model achieved a precision of 1.00 for healthy loans and 0.84 for high-risk loans.
 * Recall: The model successfully predicted 0.99 of healthy loans and a remarkable 0.99 of high-risk loans.
 
-#Summary
+# Summary
 * Upon reviewing the results from both models:
 
 * Performance: Both models displayed exceptional performance. However, Model 2 (resampled data) had a slightly higher balanced accuracy score and exhibited outstanding recall for high-risk loans.
